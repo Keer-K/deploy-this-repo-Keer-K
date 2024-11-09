@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-[<enter your URL here>](https://deploy-this-repo-keer-k-kc38.vercel.app/)
+[<enter your URL here>](https://deploy-this-repo-keer-k-kc38.vercel.app/)https://deploy-this-repo-keer-k-kc38.vercel.app/
 
 

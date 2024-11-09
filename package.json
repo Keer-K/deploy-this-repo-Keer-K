@@ -26,6 +26,7 @@
 	"type": "module",
 	"dependencies": {
 		"postgres": "^3.4.4",
-		"vite-plugin-mkcert": "^1.17.5"
+		"vite-plugin-mkcert": "^1.17.5",
+		"@sveltejs/kit": "^2.0.0"
 	}
 }
